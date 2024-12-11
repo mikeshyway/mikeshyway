@@ -1,4 +1,4 @@
-## Hi there, (Micheal) I'm Lau Jia Wei 👋
+## Hi there, I'm (Micheal) Lau Jia Wei 👋
 
 ✒️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:
 
@@ -6,8 +6,8 @@ Aspiring Web Programmer with a strong foundation in Hypertext Markup Language (H
 
 📌 𝐌𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
 
-• Proactive problem-solving mindset, staying self-motivated in every task.
-• Excellent communication skills with a focus on clarity and professionalism.
+• Proactive problem-solving mindset, staying self-motivated in every task. <br>
+• Excellent communication skills with a focus on clarity and professionalism. <br>
 • Calm under pressure, particularly adept at troubleshooting errors in code.
 
 <h3>My GitHub Contributions Summary</h3>
@@ -37,7 +37,7 @@ Aspiring Web Programmer with a strong foundation in Hypertext Markup Language (H
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 
-## 🔑 Sources to edit my readme profile: 
+## 🔑 Sources to Edit My Readme Profile: 
 - https://medium.com/@regondaakhil/maximizing-your-github-profile-tips-for-writing-a-stellar-readme-9c6bb6179f49
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/inttter/md-badges?tab=readme-ov-file#-data-visualization
